@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "secintel": {
+      "command": "/absolute/path/to/secintel-mcp/.venv/bin/secintel-mcp",
+      "env": {
+        "NVD_API_KEY": ""
+      }
+    }
+  }
+}
